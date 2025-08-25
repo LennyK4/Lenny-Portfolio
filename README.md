@@ -1,8 +1,8 @@
 # Lenny's Project Portfolio
 
-Welcome! I'm Lenny, a UK-based student balancing A-Levels and flexible shift work, with a passion for digital organization, 
-agile workflows, and practical tech solutions. This portfolio showcases coursework, competition entries, and personal projects 
-that reflect my skills in software development, version control, and system design.
+Welcome! I am Lenny, a UK‑based student pursuing A‑Levels with a strong focus on digital organisation, agile workflows, 
+and practical technology solutions. This portfolio presents selected coursework, competition projects, and independent work, 
+demonstrating my capabilities in software development, version control, and system design.
 
 ---
 
@@ -30,7 +30,9 @@ Custom scripts and templates designed to support ADHD-friendly planning and life
 ---
 
 ## 🧠 What I Value
-I build systems that are restartable, modular, and grounded in real-world constraints. Whether it's coursework or life admin, I aim for workflows that flex with energy levels and avoid burnout.
+I design systems that are modular, adaptable, and grounded in practical, real‑world requirements. My approach emphasises clarity, 
+scalability, and efficiency, ensuring solutions remain maintainable and effective over time.
+
 
 ---
 
