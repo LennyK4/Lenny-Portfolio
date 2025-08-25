@@ -1,0 +1,80 @@
+@font-face 
+{
+  font-family: McLaren;
+  src: url(https://codehs.com/uploads/979f1d279d3801178e904b62bb5873bc);
+}
+
+@font-face
+{
+  font-family: McSub;
+  src: url(https://codehs.com/uploads/d427a354088642934ea144faece43b77)
+}
+
+body
+{ 
+   /* Apply the custom font to your elements */ 
+   font-family: McSub, sans-serif;
+}
+.Title
+{
+    padding: 0px;
+    color: #eb1c00;
+    text-align: center;
+}
+
+.subTitle
+{
+  font-family: McSub, sans-serif;
+}
+
+.drivers
+{
+  font-family: McSub, sans-serif;
+  font-style: Light;
+  text-align: center;
+  color: #eb1c00;
+  font-size: 200%;
+}
+
+.row
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.column
+{
+  flex: 50%;
+}
+
+.grid {
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.image {
+  width: 100%;
+  align-content: center;
+}
+
+.button
+{
+  size: 150%;
+  background-color: #eb1c00;
+  font-size: 100%;
+  font-family: McSub, sans-serif;
+}
+
+.hidden
+{
+  visibility: hidden;
+}
+
+.show
+{
+  visibility: visible;
+}
