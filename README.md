@@ -19,7 +19,7 @@ demonstrating my capabilities in software development, version control, and syst
 ## 📁 Projects
 
 ### [CodeCamp Prototype](./CodeCamp-Prototype)
-A sprint-based web app built during Kainos CodeCamp, featuring user authentication, ticketing, and responsive design.
+Built a prototype Formula 1 search engine during Kainos CodeCamp 2025, integrating a public API with a searchable UI.
 
 ### [SSD Coursework – System Design](./SSD-Coursework)
 Coming soon: A full-stack system built for my A-Level coursework, including analysis, design, implementation, and evaluation.
